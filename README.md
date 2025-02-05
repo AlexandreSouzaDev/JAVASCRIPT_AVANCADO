@@ -1,4 +1,4 @@
-Curso de JavaScript Avançado - JAVASCRIPT_AVANCADO
+Curso de JavaScript Avançado - JAVASCRIPT_AVANÇADO
 
 Este curso é uma especialização profunda em JavaScript, voltado para desenvolvedores que já possuem uma base sólida e desejam aprimorar suas habilidades para escrever código eficiente, escalável e de alto desempenho. Ao longo do curso, você aprenderá a dominar conceitos avançados de linguagem, além de explorar ferramentas e técnicas essenciais para a criação de aplicações modernas e robustas.
 
